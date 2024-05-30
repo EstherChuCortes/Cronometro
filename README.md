@@ -7,6 +7,9 @@
   </ul>
   <p>⏰ El tiempo se muestra en el siguiente formato: <span id="cronometro">00:00:00</span>.</p>
   <div align="center">
-    <img src="/img/img-cronometro.PNG" alt="vista">
+    <img src="/img/img-cronometro.PNG" alt="vista"> 
   </div>
+
+   [***Enlace Gitpages***](https://estherchucortes.github.io/Cronometro/)
+
 </div>
