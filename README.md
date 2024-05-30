@@ -9,7 +9,9 @@
   <div align="center">
     <img src="/img/img-cronometro.PNG" alt="vista"> 
   </div>
-
+  
+   ## Vista Previa 🖼️
+  
    [***Enlace Gitpages***](https://estherchucortes.github.io/Cronometro/)
 
 </div>
