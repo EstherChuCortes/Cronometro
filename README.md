@@ -7,6 +7,6 @@
   </ul>
   <p>⏰ El tiempo se muestra en el siguiente formato: <span id="cronometro">00:00:00</span>.</p>
   <div align="center">
-    <img src="./cronometro/img/img-cronometro.PNG" alt="vista">
+    <img src="/img/img-cronometro.PNG" alt="vista">
   </div>
 </div>
